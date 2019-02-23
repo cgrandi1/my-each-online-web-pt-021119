@@ -2,8 +2,9 @@ def my_each(number)
   x = 1
  
   while x < array.length
-    yield(array[i]
+    yield(array[x]
     x = x + 1
   end
-end
+array 
 
+end 
