@@ -5,4 +5,4 @@ def my_each(number)
     yield(array[x]
     x = x + 1
   end
-
+l
