@@ -1,4 +1,4 @@
-def my_each(number)
+def my_each(array)
   x = 1
  
   while x < array.length
